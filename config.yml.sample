@@ -1,0 +1,4 @@
+to: some.whare/register
+images:
+    - node:7.7-slim
+
